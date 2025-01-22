@@ -11,7 +11,7 @@ Looking to create a healthy social environment for people to share their ideas.
 
 <img src="https://github.com/devbits-go/.github/blob/main/profile/svg/Members.svg" width="150%">
 
-![Untitled design(4)](https://github.com/devbits-go/.github/blob/main/profile/svg/Cards.svg)
+<img src="https://github.com/devbits-go/.github/blob/main/profile/svg/Cards.svg" width="80%">
 
 <img src="https://github.com/devbits-go/.github/blob/main/profile/svg/ArchBTW.svg" width="80%">
 </div>
