@@ -1,5 +1,8 @@
+
+
 <div align=center>
   
+
 <img src="https://github.com/devbits-go/.github/blob/main/profile/svg/DevBits.svg" width="100%">
 
 <img src="https://github.com/devbits-go/.github/blob/main/profile/svg/Purpose.svg" width="150%">
@@ -14,4 +17,6 @@ Looking to create a healthy social environment for people to share their ideas.
 <img src="https://github.com/devbits-go/.github/blob/main/profile/svg/Cards.svg" width="90%">
 
 <img src="https://github.com/devbits-go/.github/blob/main/profile/svg/ArchBTW.svg" width="80%">
+
+![Test](https://devbits.ddns.net/icon.png)
 </div>
